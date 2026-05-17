@@ -1,16 +1,22 @@
-## Hi there 👋
+Salam, Mən Nərmin 
 
-<!--
-**NerminPashayeva/NerminPashayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SQL, Power BI, Excel, Python istifadə edərək datanı təmizləyən, analizlər edən data analitikəm.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Texnoloji Bacarıqlarım**
+- SQL
+- Python
+- Power BI
+- Excel
+
+  
+  **Layihələrim**
+- Walmart Sales Analysis (Power BI)
+- Yellow Taxi Analytics (Excel)
+- FIFA 2019 (Python) 
+- Banking Data Analysis & Risk SQL Project (SQL) 
+
+
+**Əlaqə**
+Email - pasayevanermin03@gmail.com
+Linkedn - Narmin Pashayeva
