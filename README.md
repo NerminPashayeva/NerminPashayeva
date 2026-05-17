@@ -23,4 +23,5 @@ SQL, Power BI, Excel, Python istifadə edərək datanı təmizləyən, analizlə
 
 
 Email - pasayevanermin03@gmail.com
+
 Linkedn - Narmin Pashayeva
