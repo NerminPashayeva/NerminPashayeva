@@ -12,6 +12,15 @@ SQL, Power BI, Excel, Python istifadə edərək datanı təmizləyən, analizlə
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=excel)
+
+## Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
   
  **Layihələrim**
 - Walmart Sales Analysis (Power BI)
