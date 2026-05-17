@@ -10,7 +10,7 @@ SQL, Power BI, Excel, Python istifadə edərək datanı təmizləyən, analizlə
 - Excel
 
   
-  **Layihələrim**
+ **Layihələrim**
 - Walmart Sales Analysis (Power BI)
 - Yellow Taxi Analytics (Excel)
 - FIFA 2019 (Python) 
