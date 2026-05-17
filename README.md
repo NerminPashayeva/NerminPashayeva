@@ -9,6 +9,9 @@ SQL, Power BI, Excel, Python istifadə edərək datanı təmizləyən, analizlə
 - Power BI
 - Excel
 
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi)
   
  **Layihələrim**
 - Walmart Sales Analysis (Power BI)
